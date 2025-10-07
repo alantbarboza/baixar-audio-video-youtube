@@ -12,6 +12,16 @@ Instale o `yt-dlp` com:
 ```bash
 pip install yt-dlp
 ```
+
+Atualize o `yt-dlp` com:
+```bash
+py -m pip install -U yt-dlp
+```
+ou
+```bash
+pip install -U yt-dlp
+```
+
 ---
 
 ## Como usar
